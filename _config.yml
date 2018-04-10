@@ -67,23 +67,25 @@ episode_order:
   - the-internet
   - the-cloud
   - creating-a-keypair
+  - break
   - create-a-first-virtual-machine
   - create-a-persistent-virtual-machine
   - security-updates
   - create-a-web-server
   - install-mysql
+  - break
   - install-php
   - SSL-encryption
+  - lunch
   - create-a-wordpress-site
   - os-command-line-setup
+  - break
   - os-command-line-client
   - intro-to-cloud-init
   - bash-cloud-init
   - yaml-syntax
   - wo-cloud-init
   - heat
-  - break
-  - lunch
   
 # Turn off built-in syntax highlighting.
 highlighter: false

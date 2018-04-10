@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "Installing MySQL"
-teaching: 50
+teaching: 60
 exercises: 0
 questions:
 - "What is MySQL?"
@@ -23,7 +23,7 @@ keypoints:
 - "The `SELECT` command displays rows from a table."
 - "The `UPDATE` command is used to modify rows in a table."
 - "The `EXIT` command exits the mysql program."
-start: false
+start: true
 start_time: 540
 ---
 
