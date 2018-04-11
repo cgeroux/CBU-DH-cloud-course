@@ -81,11 +81,11 @@ episode_order:
   - os-command-line-setup
   - break
   - os-command-line-client
-  - intro-to-cloud-init
-  - bash-cloud-init
-  - yaml-syntax
-  - wo-cloud-init
-  - heat
+#  - intro-to-cloud-init
+#  - bash-cloud-init
+#  - yaml-syntax
+#  - wo-cloud-init
+#  - heat
   
 # Turn off built-in syntax highlighting.
 highlighter: false
